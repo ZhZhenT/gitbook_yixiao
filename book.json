@@ -1,0 +1,14 @@
+{
+  "title": "易晓刷机教程",
+  "description": "易晓刷机教程",
+  "isbn": "978-3-16-148410-0",
+  "language": "zh-hans",
+  "direction": "ltr",
+  "plugins": [
+    "-sharing"
+  ],
+  "styles": {
+    "website": "assets/website.css"
+  }
+
+}

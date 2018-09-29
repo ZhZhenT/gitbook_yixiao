@@ -1,0 +1,23 @@
+.markdown-section blockquote{
+    overflow: auto;
+    word-wrap: normal;
+    margin: 0;
+    padding: .85em 1em;
+    margin-bottom: 1.275em;
+    background: #f7f7f7;
+    color: inherit;
+}
+.markdown-section blockquote p{
+    display: inline;
+    max-width: initial;
+    overflow: initial;
+    line-height: inherit;
+    font-size: .85em;
+   
+    background: 0 0;
+}
+span.rem1boldred{
+    font-size: 2rem;
+    font-weight: bold;   
+    color: red;
+}
