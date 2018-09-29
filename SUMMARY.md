@@ -29,5 +29,5 @@
   * [易晓崩溃](jie-wei/2/yi-xiao-beng-kui.md)
   * [叠加层问题\(设置停止运行\)](jie-wei/2/die-jia-ceng-wen-ti.md)
   * [WiFi 开关点击无效的问题](jie-wei/2/wifi-kai-guan-dian-ji-wu-xiao-de-wen-ti.md)
-  * 中公易晓提示root授权问题
+  * [中公易晓提示root授权问题](jie-wei/2/zhong-gong-yi-xiao-ti-shi-root-shou-quan-wen-ti.md)
 
